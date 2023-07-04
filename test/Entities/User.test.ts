@@ -1,5 +1,5 @@
-import User from "../src/User";
 import { validate } from 'uuid';
+import User from '../../src/Entities/User';
 
 describe("User", () => {
   const login = "test";

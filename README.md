@@ -20,6 +20,10 @@ Todas as entidades estenderão da classe Entity que possui um id único gerado a
   - name (string): Nome do autor.
 - Observação: Um livro pode ter mais de um autor.
 
+### Publisher
+- Atributos:
+  - name (string): Nome da editora.
+
 ### Book
 - Atributos:
   - title (string): Título do livro.

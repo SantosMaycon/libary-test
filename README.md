@@ -35,7 +35,7 @@ Todas as entidades estenderão da classe Entity que possui um id único gerado a
   - quantity (number): Quantidade total de exemplares do livro.
   - available (number): Quantidade disponível de exemplares do livro.
 
-### Borrowing
+### Laon
 - Atributos:
   - user (User): Usuário que realiza o empréstimo.
   - book (Book): Livro emprestado.

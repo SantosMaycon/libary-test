@@ -1,6 +1,8 @@
 import IAuthor from "./IAuthor";
+import IPublisher from "./ILoan";
 
-export interface IBook {
+export default interface IBook {
+  id: string; // Identificador único do livro.
   title: string; // Título do livro.
   authors: IAuthor[]; // Autores do livro.
   edition: string; // Edição do livro.

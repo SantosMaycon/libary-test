@@ -36,7 +36,7 @@
 3. O sistema informa que a senha está incorreta.
 4. O sistema informa que o livro não está emprestado.
 
-## Caso de uso 3: Consultar livros
+## Caso de uso 3: Consultar livros disponíveis
 
 ### Pré-condições
 - O usuário deve estar cadastrado no sistema.
